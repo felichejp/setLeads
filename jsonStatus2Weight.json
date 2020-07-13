@@ -1,0 +1,12 @@
+[
+    {"status":1, "peso":5},
+    {"status":2, "peso":10},
+    {"status":3, "peso":15},
+    {"status":4, "peso":15},
+    {"status":5, "peso":15},
+    {"status":6, "peso":20},
+    {"status":7, "peso":20},
+    {"status":8, "peso":20},
+    {"status":9, "peso":10},
+    {"status":10, "peso":0}
+]

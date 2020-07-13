@@ -1,0 +1,40 @@
+[
+    {"consultorId":11, "clientes":
+        [
+            {"id":10, "status":2},
+            {"id":11, "status":5},
+            {"id":14, "status":6},
+            {"id":15, "status":7}
+        ]
+    },
+    {"consultorId":12, "clientes":
+        [
+            {"id":12, "status":1},
+            {"id":13, "status":1}
+        ]
+    },
+    {"consultorId":13, "clientes":
+        [
+            {"id":10, "status":2},
+            {"id":11, "status":5},
+            {"id":14, "status":6}
+        ]
+    },
+    {"consultorId":14, "clientes":
+        [
+            {"id":12, "status":1}
+        ]
+    },
+    {"consultorId":15, "clientes":
+        [
+            {"id":12, "status":1},
+            {"id":13, "status":1}
+        ]
+    },
+    {"consultorId":16, "clientes":
+        [
+            {"id":12, "status":1},
+            {"id":13, "status":1}
+        ]
+    }
+]
